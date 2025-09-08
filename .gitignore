@@ -3,6 +3,7 @@ cmake-build-*-*/
 .idea/
 CMakeFiles/
 CMakeCache.txt
+CMakeLists.txt
 *.o
 *.obj
 *.a
